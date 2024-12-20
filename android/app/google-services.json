@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479106710007",
+    "project_id": "cactus-2-0",
+    "storage_bucket": "cactus-2-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479106710007:android:6f1e4c4e3a9073465196f2",
+        "android_client_info": {
+          "package_name": "com.polina.cactus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIL6aKqTWQuPoy5vc3luKZjSscn834Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
